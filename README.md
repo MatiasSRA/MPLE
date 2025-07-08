@@ -13,25 +13,24 @@
             background-color: #0d0d0d;
             color: #f0f0f0;
         }
-
         header {
             background: linear-gradient(135deg, #121212, #1f1f1f);
             padding: 60px 20px;
             text-align: center;
         }
 
-        header h1 {
+header h1 {
             font-size: 2.8em;
             margin-bottom: 10px;
             color: #ffffff;
         }
 
-        header p {
+header p {
             color: #bbbbbb;
             font-size: 1.2em;
         }
 
-        section {
+section {
             max-width: 900px;
             margin: 50px auto;
             padding: 30px;
@@ -41,23 +40,23 @@
             transition: transform 0.3s ease;
         }
 
-        section:hover {
+section:hover {
             transform: scale(1.01);
         }
 
-        h2 {
+ h2 {
             color: #00aaff;
             font-size: 1.8em;
             margin-bottom: 10px;
         }
 
-        p {
+p {
             font-size: 1.1em;
             line-height: 1.7em;
             color: #dddddd;
         }
 
-        img {
+img {
             width: 100%;
             border-radius: 12px;
             margin: 20px 0;
@@ -65,11 +64,11 @@
             transition: filter 0.3s ease;
         }
 
-        img:hover {
+ img:hover {
             filter: brightness(1.1);
         }
 
-        footer {
+ footer {
             text-align: center;
             padding: 30px 10px;
             background-color: #111;
@@ -77,7 +76,7 @@
             font-size: 0.9em;
         }
 
-        @media (max-width: 768px) {
+  @media (max-width: 768px) {
             header h1 {
                 font-size: 2em;
             }
