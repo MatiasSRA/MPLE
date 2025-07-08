@@ -4,13 +4,7 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
     
-  <style>
-        body {
-            margin: 0;
-            font-family: 'Inter', sans-serif;
-            background-color: #0d0d0d;
-            color: #f0f0f0;
-        }
+  
 
 
 <section>
